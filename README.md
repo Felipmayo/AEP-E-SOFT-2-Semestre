@@ -112,6 +112,7 @@ Os integrantes também participaram conjuntamente da:
 - Revisão final do material;
 - Organização do repositório no GitHub.
 - Elaboração das sprints semanais pelo Trello (https://trello.com/invite/b/6a8d97b1b1377ef68a499e79/ATTIc3b03c1574c3e5dc58d69bde6410a07d4B390B8D/aep-2-2026-esoft-2-ma)
+- Elaboração do README
 
 ---
 
