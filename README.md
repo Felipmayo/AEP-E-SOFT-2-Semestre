@@ -15,7 +15,7 @@
 ### Integrantes
 
 - **João Pedro De Faria** — RA 26001857-2
-- **Felipe Mayo** — RA 26008845-2
+- **Felipe de Morais Mayo** — RA 26008845-2
 - **Gustavo Ribeiro** — RA 26006633-2
 
 ---
