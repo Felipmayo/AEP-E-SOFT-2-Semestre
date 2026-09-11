@@ -117,5 +117,5 @@ Os integrantes também participaram conjuntamente da:
 
 ## Documentação
 
-O **PDF da primeira entrega** contém a documentação completa do projeto, incluindo a fundamentação, requisitos, fluxogramas, pseudocódigos e demais informações exigidas na etapa.
+O **PDF da primeira entrega** contém a documentação completa do projeto, incluindo a fundamentação, requisitos, fluxogramas e demais informações exigidas na etapa.
 
